@@ -5,26 +5,30 @@ This sales dashboard offers a visual overview of key metrics like shipment modes
 This interactive sales dashboard built in Excel provides a visual representation of business performance using slicers, charts, and filters across shipment modes, product categories, customer segments, and geography.
 
 ✅ Key Visual Insights from the Dashboard
+
 🚚 Shipment Modes
-•	Regular Air: 1,437 orders
-•	Delivery Truck: 275 orders
-•	Express Air: 240 orders
-➡️ Regular Air is the dominant shipment mode used.
+  •	Regular Air: 1,437 orders
+  •	Delivery Truck: 275 orders
+  •	Express Air: 240 orders
+ ➡️ Regular Air is the dominant shipment mode used.
+ 
 🏆 Top 5 Profitable States
-1.	California – $37,421.96
-2.	New York – $27,611.94
-3.	Ohio – $23,410.84
-4.	Oregon – $17,931.04
-5.	Texas – $28,078.85
+ 1.	California – $37,421.96
+ 2.	New York – $27,611.94
+ 3.	Ohio – $23,410.84
+ 4.	Oregon – $17,931.04
+ 5.	Texas – $28,078.85
+
 💸 Top 10 Profitable Cities
-•	Washington – $11,677.36
-•	Harrison – $8,839.22
-•	Thornton – $9,300.34
-•	Greenville, Los Angeles, etc.
+ •	Washington – $11,677.36
+ •	Harrison – $8,839.22
+ •	Thornton – $9,300.34
+ •	Greenville, Los Angeles, etc.
+ 
 📉 Bottom 3 Least Profitable Products
-1.	Tables (approx. -$7,500 loss)
-2.	Scissors, Rulers, and Trimmers
-3.	Rubber Bands
+ 1.	Tables (approx. -$7,500 loss)
+ 2.	Scissors, Rulers, and Trimmers
+ 3.	Rubber Bands
 ➡️ Indicates overstocking or poor margin.
 
 🧠 Approach & Methodology
